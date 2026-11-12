@@ -1,1 +1,67 @@
-eva
+ <!DOCTYPE html>
+ <html lang="id">
+ <head>
+     <meta charset="UTF-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <title>Biodata Eva Febriyanti</title>
+     <style>
+         body {
+             font-family: Arial, sans-serif;
+             background-color: #f8f9fa;
+             margin: 0;
+             padding: 20px;
+         }
+         .container {
+             background: white;
+             max-width: 600px;
+             margin: 0 auto;
+             padding: 30px;
+             border-radius: 10px;
+             box-shadow: 0 0 10px #ccc;
+         }
+         img {
+             width: 150px;
+             height: 150px;
+             border-radius: 50%;
+             display: block;
+             margin: 0 auto;
+             object-fit: cover;
+         }
+         h1 {
+             text-align: center;
+             color: #333;
+         }
+         .biodata {
+             margin: 20px 0;
+         }
+         nav {
+             text-align: center;
+             margin-top: 30px;
+         }
+         nav a {
+             background: #0d6efd;
+             color: white;
+             padding: 10px 20px;
+             text-decoration: none;
+             border-radius: 5px;
+         }
+     </style>
+ </head>
+ <body>
+     <div class="container">
+         <img src="eva.jpg" alt="Foto Profil">
+         <h1>Eva Febriyanti</h1>
+         <div class="biodata">
+             <p><strong>Nama Lengkap:</strong> Eva Febriyanti</p>
+             <p><strong>Kelas:</strong> XI TJKT 1</p>
+             <p><strong>Sekolah:</strong> SMK NEGERI 1 LEUWIMUNDING</p>
+             <p><strong>Alamat:</strong> Cirebon</p>
+             <p><strong>Email:</strong> efebriyanti820@gmail.com</p>
+             <p><strong>Hobi:</strong> Bela diri</p>
+         </div>
+         <nav>
+             <a href="https://nama-akun.github.io/praktikum/">Menuju Menu Praktikum</a>
+         </nav>
+     </div>
+ </body>
+ </html>
